@@ -4,4 +4,4 @@ HTML, CSS, JavaScript
 ## 📸 Preview
 ![Screenshot](screenshot.png)
 ## 🔗 Live Demo
-[🚀 View Demo](https://helpful-lebkuchen-61d984.netlify.app/)
+[🚀 View Demo](dreamy-puffpuff-f41c9f.netlify.app)
