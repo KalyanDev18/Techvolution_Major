@@ -2,10 +2,9 @@
 ## 🛠️ Tech Stack
 HTML, CSS, JavaScript
 
-
 ## 📸 Preview
-![Screenshot]("C:\Users\kalyan dev\OneDrive\Pictures\Screenshots\Screenshot 2025-12-28 175117.png")
+![Portfolio Preview](assets/images/screenshot.png)
 ## 📸 Preview
-![Screenshot](screenshot.png)
+![Portfolio Preview](assets/images/screenshot(1).png)
 ## 🔗 Live Demo
 [🚀 View Demo](https://helpful-lebkuchen-61d984.netlify.app/)
